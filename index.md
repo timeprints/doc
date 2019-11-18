@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This page is **temporal** for, _review_. 
+This page is **temporal and anonymous** for now; _prepared for blind review_. 
 
 [Link to Galois Proof](./galois.pdf).
 
